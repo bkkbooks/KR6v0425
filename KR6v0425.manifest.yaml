@@ -18,7 +18,7 @@ editions:
 - short: B
 assets:
   parts:
-  - {seq: 0, filename: KR6v0425_000.yaml, hash: 'sha256:d13fbc69d1f7598a2278c974df65b71e3354cf39c670e825d9a3e91e3f86f007'}
+  - {seq: 0, filename: KR6v0425_000.yaml, hash: 'sha256:e23241b4058fde2878938f0d9c10e86d8476de41c24b93e32f471d915a50fd63'}
   - {seq: 2, filename: KR6v0425_002.yaml, hash: 'sha256:e4f33c512b46aa009592770eae846fae77ce1463120c2aa80ead6ecf2ae34559'}
   - {seq: 3, filename: KR6v0425_003.yaml, hash: 'sha256:a10211714b5b7fc5b7574e8d60d7386b15c3694ad109a7af4f813e3df313567b'}
   - {seq: 4, filename: KR6v0425_004.yaml, hash: 'sha256:71294b0e6b02b1f768c6dc7a56344c85e426c900e2c4111d3cbd352056445211'}
@@ -43,7 +43,7 @@ assets:
   - {seq: 23, filename: KR6v0425_023.yaml, hash: 'sha256:79eda902d0e23ef2a06ca8367702d5ebae59c5e797d34177c0dca2a41b2507c5'}
   - {seq: 24, filename: KR6v0425_024.yaml, hash: 'sha256:0b6ffe8419c24f5e5c43edc8174e2072834958b14e9da6013f57b1db8fe7ffaa'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0425_000.markers.yaml, hash: 'sha256:d478a1737e4558ea1c8b9102b74ce5ba7785655146043da0865f9d8c1a102ecc'}
+  - {seq: 0, role: markers, filename: assets/KR6v0425_000.markers.yaml, hash: 'sha256:5bb99e5abeda5361ee0305dc60ea0d5e29c275a392db66f5b31b1e409668062e'}
   - {seq: 2, role: markers, filename: assets/KR6v0425_002.markers.yaml, hash: 'sha256:fc52d36f21c7013fea627ef303e4dd46d65ae1e1570a53a95de6d30361d834bf'}
   - {seq: 3, role: markers, filename: assets/KR6v0425_003.markers.yaml, hash: 'sha256:06e8ca2481963e193fb2d79b026afcb4cc7cc6f8383317211b3a70a7ed517bd2'}
   - {seq: 4, role: markers, filename: assets/KR6v0425_004.markers.yaml, hash: 'sha256:82b6de66bd5cae3df1ceea7d6aa8d79dbc339377bd413f3a81760f991496b490'}
@@ -72,7 +72,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0425_B_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 原書細目
@@ -82,7 +82,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0425_B_000-mulu-2
     span:
-    - front
+    - body
     - 256
     - 256
   label: 遺像、塔圖、塔銘、事略
@@ -92,7 +92,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0425_B_000-mulu-3
     span:
-    - front
+    - body
     - 256
     - 256
   label: 遺像
@@ -102,7 +102,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0425_B_000-mulu-4
     span:
-    - front
+    - body
     - 256
     - 256
   label: 塔圖
@@ -112,7 +112,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0425_B_000-mulu-5
     span:
-    - front
+    - body
     - 256
     - 256
   label: 塔銘
@@ -122,7 +122,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0425_B_000-mulu-6
     span:
-    - front
+    - body
     - 1136
     - 1136
   label: 事略
@@ -132,7 +132,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0425_B_000-mulu-7
     span:
-    - front
+    - body
     - 3563
     - 3563
   label: 楊氏分家筆據
@@ -142,7 +142,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0425_B_000-mulu-8
     span:
-    - front
+    - body
     - 4019
     - 4019
   label: 大宗地玄文本論略註
@@ -152,7 +152,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0425_B_000-mulu-9
     span:
-    - front
+    - body
     - 4019
     - 4019
   label: 序說
@@ -162,7 +162,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0425_B_000-mulu-10
     span:
-    - front
+    - body
     - 4391
     - 4391
   label: 目錄
@@ -172,7 +172,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0425_B_000-mulu-11
     span:
-    - front
+    - body
     - 5237
     - 5237
   label: 略標大意
@@ -4088,7 +4088,7 @@ table_of_contents:
   label: 雜評
   type: mulu
   level: 1
-hash: sha256:530c723e117c4bc0fe1d894fb82dba83d217c14cd9a8e6035591f5c84dd66bb7
+hash: sha256:7be63f850f856977ae5a93dbd379c5e6e212921670c215c4f74aa46d1660729d
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
